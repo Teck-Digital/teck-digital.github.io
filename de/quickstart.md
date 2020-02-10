@@ -1,5 +1,5 @@
 # Quick Start
-## Vorraussetzungen bringe ich leider nicht mit
+## Vorraussetzungen
 
 ```php
 <?php

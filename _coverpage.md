@@ -1,4 +1,4 @@
-![logo](_assets/Logo.png ':size=300')
+![logo](_assets/Logo2.png ':size=300')
 
 > Willkommen zur Dokumentation der TECKdigital Projekte.
 
@@ -7,4 +7,4 @@
 
 <!-- background color -->
 
-![color](#fff)
+![color](#172b4d)

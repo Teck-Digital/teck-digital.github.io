@@ -16,7 +16,7 @@ Im TECKpbl Projekt werden folgende Programmiersprachen angewandt. Die prozentual
 - <span style="color: #3572A5">Python 3%</span>
 
 ## GitHub
-Dieses Projekt wird ausschließlich auf GitHub liegen. Jeder Commit ist bitte mit einer passenden Commit Message zu versehen, die es den anderen Ermöglicht zu verstehen, was in dem Commit verändert wurde. Darüber hinaus sind Datenbankänderungen noch einmal deutlich zu kennzeichnen und darüber hinaus in unserem Slack Channel zu posten, da diese das komplette Programm zerstören können und unnötige Fehlersuche bedeuten.
+Dieses Projekt wird ausschließlich auf GitHub verwaltet. Jeder Commit ist bitte mit einer passenden Commit Message zu versehen, die es den anderen Ermöglicht zu verstehen, was in dem Commit verändert wurde. Darüber hinaus sind Datenbankänderungen noch einmal deutlich zu kennzeichnen und darüber hinaus in unserem Slack Channel zu posten, da diese das komplette Programm zerstören können und unnötige Fehlersuche bedeuten.
 
 Darüber hinaus gibt es auf der [Projektseite](https://github.com/Teck-Digital/pbl) 3 Branches auf denen gearbeitet wird. Zur Bedeutung jeder einzelnen:
 ##### Master
